@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Victor Tilheri, I am a student of Management in Information Technology. 📫
 
 <!--
 **Victor-Tilheri/Victor-Tilheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
