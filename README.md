@@ -1,7 +1,7 @@
-<h1 align="center">Olá, me chamo Victor</h1>
-<h3 align="center">Sou um desenvolvedor web, apaixonado por tecnologia e entusiasta em backend</h3>
+<h1 align="center">Hello, I'am Victor Tilheri</h1>
+<h3 align="center">A passionate web developer</h3>
 
-<h3 align="left">Me encontre:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victor-tilheri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victor-tilheri" height="30" width="40" /></a>
 </p>
